@@ -15,8 +15,8 @@ Useful links for reat hooks learning
 [documentation](https://ru.reactjs.org/docs/hooks-intro.html)
 
 #### Youtube tutorials
-[(useState, useEffect, UseContext, useReducer)](https://www.youtube.com/watch?v=hQRPsKzpo34&list=PLqKQF2ojwm3n6YO3BDSQIg35GGKn_ImFD)
-[todo with hooks](https://www.youtube.com/watch?v=V1rhxheJg4A)
+* [(useState, useEffect, UseContext, useReducer)](https://www.youtube.com/watch?v=hQRPsKzpo34&list=PLqKQF2ojwm3n6YO3BDSQIg35GGKn_ImFD)
+* [todo with hooks](https://www.youtube.com/watch?v=V1rhxheJg4A)
 
 #### Github links
 * [react-use](https://github.com/streamich/react-use) 8.7k:star:
