@@ -1,6 +1,9 @@
 # React-Hooks-Links
 Useful links for reat hooks learning
 
+#### Presentation
+[20.11.2019 presentation](https://docs.google.com/presentation/d/1l_So61_9nThnrtrGHzlUZMxwgL4cWGVCO2OkrVuMyys/edit?usp=sharing)
+
 #### react hooks plugin
 [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks#installation)
 
