@@ -8,8 +8,8 @@ Useful links for reat hooks learning
 [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks#installation)
 
 #### Habr
-[Deep dive into useEffect](https://habr.com/ru/company/ruvds/blog/445276/)
-[useContext, useReducer vs redux](https://habr.com/ru/post/473070/)
+* [Deep dive into useEffect](https://habr.com/ru/company/ruvds/blog/445276/)
+* [useContext, useReducer vs redux](https://habr.com/ru/post/473070/)
 
 #### Documentation
 [documentation](https://ru.reactjs.org/docs/hooks-intro.html)
